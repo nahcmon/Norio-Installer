@@ -1,6 +1,6 @@
 # Norio for macOS
 
-Norio runs a team of Claude Code and Codex agents on your projects, with an
+Norio runs a team of coding agents of your choice on your projects, with an
 orchestrator that plans the work and keeps you posted.
 
 This repository exists only to distribute the app. The source lives elsewhere.
